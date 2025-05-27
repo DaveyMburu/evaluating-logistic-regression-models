@@ -11,7 +11,7 @@ In this lab you will:
 
 - Implement evaluation metrics from scratch using Python 
 
-
+# Check the index.ipynb file for my workings
 
 ## Terminology review  
 
